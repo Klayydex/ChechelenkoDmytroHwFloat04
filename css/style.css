@@ -46,3 +46,35 @@ body {
 .header__img-wrap img {
     width: 100%;
 }
+
+/* float */
+/* float */
+
+/* 10 */
+.article__heading {
+    color: #a11414;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 15 px;
+}
+
+.article__item {
+    color: #1b1b1b;
+    text-indent: 40px;
+    margin-bottom: 31px;
+}
+
+/* 10 */
+.article__text--spec {
+    text-transform: uppercase;
+}
+
+/* 10 */
+.article__text--mod {
+    color: #a11414;
+}
+
+/* 10 */
+.article__text--add {
+    text-decoration: line-through;
+}
