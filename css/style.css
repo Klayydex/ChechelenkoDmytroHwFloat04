@@ -19,3 +19,30 @@ body {
     background-color: #fff;
     padding: 0 3%;
 }
+
+/* 10 */
+.header__heading {
+    padding-top: 96px;
+    margin-bottom: 46px;
+    font-size: 2rem;
+    color: #a11414;
+}
+
+/* 10 */
+.header__heading--spec {
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+/* 10 */
+.header__img-wrap {
+    padding: 14px 13px;
+    border: 1px solid black;
+    border-radius: 2px;
+    margin-bottom: 57px;
+}
+
+/* 11 */
+.header__img-wrap img {
+    width: 100%;
+}
