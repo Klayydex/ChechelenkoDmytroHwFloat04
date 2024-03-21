@@ -119,7 +119,19 @@ body {
     padding-bottom: 18px;
 }
 
-/* 10*/
+/* 10 */
 .footer__line {
     background: url(../images/footer_line.gif) no-repeat 50%;
+}
+
+/* 10 */
+.footer__item {
+    text-align: center;
+    padding: 7px 0 6px;
+    color: #403636;
+}
+
+/* 10 */
+.footer__item--spec {
+    font-weight: 700;
 }
