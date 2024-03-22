@@ -114,7 +114,7 @@ body {
 }
 
 /* 20 */
-.naw__link:hover {
+.nav__link:hover {
     font-weight: 700;
     color: #a11414;
     text-decoration: underline;
