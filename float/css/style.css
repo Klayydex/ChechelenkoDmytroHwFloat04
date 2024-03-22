@@ -27,6 +27,7 @@ body {
 
 /* 10 */
 .header__heading--spec {
+    font: inherit;
     font-weight: 700;
     text-transform: uppercase;
 }
